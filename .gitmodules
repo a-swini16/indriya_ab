@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/a-swini16/indriya_academy.git
+[submodule "indriya-backend"]
+	path = indriya-backend
+	url = https://github.com/a-swini16/indriya-backend.git
